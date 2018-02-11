@@ -1,8 +1,6 @@
-# Useful Buttons for Finder on macOS
+# FinderButtons
 
 **FinderButtons** is my button cellection for Finder, which are written in **AppleScript**.
-
-![TerminalHere Screenshot](./screenshots/terminalhere.png)
 
 This repository is inspired by [LTFinderButtons](https://github.com/lexrus/LTFinderButtons), but focuses on **AppleScript**, and intends to do more.
 
@@ -28,13 +26,11 @@ Download from [here](https://github.com/ashfinal/FinderButtons/releases), move t
 
 ## Contribute
 
-Please include your source file and exported app bundle. If you run external programs in the script, remember to mention them in README.
+Please include your source file and exported app bundle. 
 
-## Application and icns file
+If need external programs in your script, remember to mention them in README.
 
 Export your script to **Application**, and replace the `applet.icns` with your own.
-
-![Export As Application](./screenshots/export2app.png)
 
 ## LICENSE
 
